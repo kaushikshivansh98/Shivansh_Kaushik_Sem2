@@ -1,0 +1,8 @@
+var let and const
+
+rules for using var names:-
+
+1)letter,digit,underscore and dollars signs allowed
+2)var must be begin with a dollar , underscore or a letter 
+3)javascripts reserve words cannt be used as a variable name
+4)
